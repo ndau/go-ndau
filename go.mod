@@ -1,4 +1,4 @@
-module ndau/go-ndau
+module github.com/ndau/go-ndau
 
 go 1.19
 
